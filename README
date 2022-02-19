@@ -1,0 +1,13 @@
+sokoban TUI style
+
+--Legend--
+Player:          @
+Wall:            #
+Movable Box:     o
+Target for box:  x
+Occupied target: %
+
+--Instructions--
+Move player:     hjkl
+Exit:            q
+Reset level:     r
