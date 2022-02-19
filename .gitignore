@@ -1,3 +1,6 @@
 sok
 *.o
 win.dat
+cre/cre
+maps/incmaps.asm
+maps/maps.h
